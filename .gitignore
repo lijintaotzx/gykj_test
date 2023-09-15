@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+local_settings.py
+
+# Database
+*.sqlite3
+*.db
+
+# Static files
+staticfiles/
+media/
+
+# Secret key
+*.secret_key
+
+# Django secret key
+*.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Virtual environment
+venv/
