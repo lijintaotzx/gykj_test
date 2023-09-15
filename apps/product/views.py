@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from django.db import connection
 from rest_framework import generics
 
